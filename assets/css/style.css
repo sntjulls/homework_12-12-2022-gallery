@@ -1,0 +1,17 @@
+.gallery-of-pets{
+    text-align: center;
+    border: 4px double rgb(166, 10, 228);
+} 
+
+h2 {
+    color: rgb(44, 2, 50);
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    border: 4px double rgb(63, 2, 63);
+    border-radius: 50% 50% 0 50%;
+    object-fit: cover;
+    object-position: top;
+}
